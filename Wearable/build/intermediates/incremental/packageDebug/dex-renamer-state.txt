@@ -1,0 +1,7 @@
+#Sun Oct 23 02:18:13 BST 2016
+base.0=F\:\\android-play-location\\WearNotifications\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0340f55f19fb18cffc8ccb5db3b5d661dc96d70c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\android-play-location\\WearNotifications\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bab17692814932ccf0628bd3c573e8dde382d422\\classes.dex
+base.1=F\:\\android-play-location\\WearNotifications\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bab17692814932ccf0628bd3c573e8dde382d422
+file.0=F\:\\android-play-location\\WearNotifications\\Wearable\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0340f55f19fb18cffc8ccb5db3b5d661dc96d70c\\classes.dex
